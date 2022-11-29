@@ -31,6 +31,6 @@ module.exports = {
     defaultLocale: "pl"
   },
   images: {
-    domains: [process.env.WP_DOMAIN, "secure.gravatar.com"],
+    domains: [process.env.WP_DOMAIN, "flow-news.xyz"],
   },
 };
